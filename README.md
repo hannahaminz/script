@@ -1,0 +1,2 @@
+# script
+Tea protocol testnet
